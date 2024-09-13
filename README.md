@@ -1,4 +1,8 @@
 # 로컬 PC에서 Gemma2 2B 모델 테스트
+[![실행 영상](./thumb.png)]([https://youtu.be/XIEK0ULeeB8](https://youtu.be/jk-iJrpuEgg))
+<div align="center">
+이미지를 클릭하면 유튜브 영상으로 이동합니다. 
+</div>
 
 ## 1. 들어가며
 이 저장소는 **트랜스포머부터 이해하는 생성 인공지능 100제**에 수록된 소규모 거대 언어 모델(smaller Large Language Model, 이하 sLLM) 테스트를 다루고 있습니다. 모델은 구글에서 2024년 8월 공개한 오픈소스 sLLM인 `gemma2`이며, PC에서 CPU만을 사용하여 모델을 시험해 보는 과정을 다루고 있습니다.
