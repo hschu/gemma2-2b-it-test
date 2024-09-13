@@ -1,5 +1,5 @@
 # 로컬 PC에서 Gemma2 2B 모델 테스트
-[![실행 영상](./thumb.png)]([https://youtu.be/XIEK0ULeeB8](https://youtu.be/jk-iJrpuEgg))
+[![실행 영상](./thumb.png)](https://youtu.be/jk-iJrpuEgg)
 <div align="center">
 이미지를 클릭하면 유튜브 영상으로 이동합니다. 
 </div>
